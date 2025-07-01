@@ -6,7 +6,7 @@
     "ripped%s?pants",
     "pants%s?ripped",
     "jeabs%s?ripped",
-    "abstract",
+    "abstract"
   ],
   "blackList": [
     { "pattern": "Mime & Dash", "points": 20 },
@@ -31,7 +31,6 @@
 
     { "pattern": "Swim%s?suit", "points": 7 },
     { "pattern": "Body%s?suit", "points": 7 },
-    { "pattern": "Bodysuit", "points": 7 },
     { "pattern": "Popped%s?yellow%s?gum", "points": 7 },
     
     { "pattern": "Dolphin%s?Short", "points": 6 },
@@ -77,7 +76,6 @@
     { "pattern": "Cat%s?girl", "points": 3 },
     { "pattern": "Cat%s?boy", "points": 3 },
     { "pattern": "Turtle%s?Neck", "points": 3 },
-    { "pattern": "Turtleneck", "points": 3 },
     { "pattern": "Milker", "points": 3 },
     { "pattern": "Milks", "points": 3 },
     { "pattern": "Milkie", "points": 3 },
@@ -93,10 +91,10 @@
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Choker", "points": 1.5 },
 
-    { "pattern": "Pretty", "points": 1 },
-    { "pattern": "Woman", "points": 1 },
-    { "pattern": "Women", "points": 1 },
-    { "pattern": "Female", "points": 1 },
-    { "pattern": "Neko", "points": 1 }
+    { "pattern": "Pretty", "points": 0.5 },
+    { "pattern": "Woman", "points": 0.5 },
+    { "pattern": "Women", "points": 0.5 },
+    { "pattern": "Female", "points": 0.5 },
+    { "pattern": "Neko", "points": 0.5 }
   ]
 }
