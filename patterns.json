@@ -79,6 +79,7 @@
     { "pattern": "Cat%s?girl", "points": 3 },
     { "pattern": "Cat%s?boy", "points": 3 },
     { "pattern": "Turtle%s?Neck", "points": 3 },
+    { "pattern": "Turtleneck", "points": 3 },
     { "pattern": "Milker", "points": 3 },
     { "pattern": "Milks", "points": 3 },
     { "pattern": "Milkie", "points": 3 },
